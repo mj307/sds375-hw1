@@ -1,0 +1,19 @@
+---
+title: "Med Jambhekar's Personal Website -- HW 1"
+---
+
+Hello!
+
+
+My name is Medhavi (Med) Jambhekar.
+
+
+I'm 20 years old, and am originally from the Bay Area CA.
+
+
+I'm currently studying Statistics and Data Science at UT Austin.
+
+
+I'm an engineer (I fixed my smoke alarm one time), lawyer (I binged watch Suits), and chef (I can make box Mac n Cheese).
+
+![Me!!](images/pic.png)
