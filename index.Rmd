@@ -5,7 +5,7 @@ title: "Med Jambhekar's Personal Website -- HW 1"
 Hello!
 
 
-My name is Medhavi (Med) Jambhekar.
+My name is Medhavi (Med) Jambhekar. 
 
 
 I'm 20 years old, and am originally from the Bay Area CA.
@@ -17,3 +17,16 @@ I'm currently studying Statistics and Data Science at UT Austin.
 I'm an engineer (I fixed my smoke alarm one time), lawyer (I binged watch Suits), and chef (I can make box Mac n Cheese).
 
 ![Me!!](images/pic.png)
+
+[Click Here for my Github!!](https://github.com/mj307)
+
+## My favorite Music Artists
+- Mötley Crüe
+- Guns N' Roses
+- Metallica
+
+Build Time of this Page:
+
+```{r, echo=FALSE}
+Sys.time()
+```
